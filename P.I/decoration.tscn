@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bwfbq6f1j82l2"]
+
+[ext_resource type="TileSet" uid="uid://cmcbqmmy8jdpt" path="res://cenario.tres" id="1_tfd5r"]
+
+[node name="Decoration" type="TileMapLayer"]
+tile_set = ExtResource("1_tfd5r")
